@@ -5,7 +5,7 @@ spring:
     username: springcloud
     password: 123456
 
-from: git-dev-6.0
+from: git-dev-7.0
 
 management:
   security:
